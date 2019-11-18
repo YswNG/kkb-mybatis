@@ -1,3 +1,6 @@
 # Project exclude paths
 /mybatis-demo/target/
+/mybatis-demo/mybatis-demo.iml
 /mybatis-framework-11/target/
+/mybatis-framework-11/mybatis-framework-11.iml
+/.idea
