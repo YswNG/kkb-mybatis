@@ -24,7 +24,7 @@ public class UserDaoTest {
 		XMLConfigBuilder configBuilder = new XMLConfigBuilder();
 		//4.需要专门对mybatis标签进行解析
 		Configuration configuration = configBuilder.parse(inputStream);
-		//ysw test git commit by tortoiseGit
+		//ysw test git commit by idea
 		System.out.println(configuration);
 	}
 
